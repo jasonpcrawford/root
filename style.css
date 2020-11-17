@@ -1,63 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-
-<title>My Title</title>
-	
-<meta charset="utf-8" />
-<link rel="icon" href=""/>
-<meta name="description" content="My Description"/>
-<meta name="keywords" content="key, key, key" />
-<meta content="index" name="robots"/>
-
-<meta property="og:url" content="https://jasonpcrawford.github.io/root/" />
-<meta property="og:title" content="My Title" />
-<meta property="og:description" content="" />
-<meta property="og:image" content="" />
-<meta property="og:image:secure_url" content="" /> 
-<meta property="og:image:width" content="1200" /> 
-<meta property="og:image:height" content="630" />
-<meta property="fb:app_id" content="" />
-<link rel="canonical" href="https://jasonpcrawford.github.io/root/"/>
-
-<meta property="og:type" content="website" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-
-<link rel="stylesheet" href="style.css" />
-
-</head>
-
-<body>
-
-
-<h1>GitHub Page</h1>
-
-
-<p>
-<a href="https://www.jasoncrawford.me">Jason Crawford Website</a>
-</p>
-
-<p>
-<a href="https://github.com/jasonpcrawford/">GitHub Profile</a>
-</p>
-
-<p>
-<a href="https://jasonpcrawford.github.io/root/">GitHub root Repository</a>
-</p>
-<p>
-<a href="https://jasonpcrawford.github.io/root/page">GitHub root Repository Page</a>
-</p>
-
-<p>
-<a href="https://jasonpcrawford.github.io/root/blank-html-template/">Blank HTML Template</a>
-</p>
-
-
-
- 
-
-</body>
-</html>
-
-
+html{}
+body{}
+menu{}
+menu ul{}
+menu ul li{}
+menu ul li a{}
+nav{}
+header{}
+section{}
+article{}
+footer{}
 
